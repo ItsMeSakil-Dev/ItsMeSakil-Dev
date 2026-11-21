@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey there, I'm Sakil 👋
 
-<!--
-**ItsMeSakil-Dev/ItsMeSakil-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical **Python** tools, **Telegram bots**, and **automation utilities** with clean structure and active commits.
 
-Here are some ideas to get you started:
+- 💻 **Core Stack:** Python · Automation · APIs · Bot Frameworks
+- ⚡ **Current Focus:** `RhythmSync` & modular bot/automation systems
+- 📫 **Connect:** [GitHub](https://github.com/ItsMeSakil-Dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Highlighted Work
+
+- **RhythmSync** — Music & sync bot project in Python.
+- **myuserbot** — Custom userbot modules and workflow automation.
+- **Tg-Rotator-** — Telegram utility/automation script.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsMeSakil-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeSakil-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
