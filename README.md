@@ -1,42 +1,42 @@
 <div align="center">
 
-<h1><code>✦ SAKIL ANOWAR ✦</code></h1>
+# Sakil Anowar
+**Python Developer** · **Telegram Voice & Bot Systems** · **Automation Engineering**
 
-<p>
-  <strong><code>Python Developer</code></strong> &nbsp;•&nbsp;
-  <strong><code>Telegram Bots</code></strong> &nbsp;•&nbsp;
-  <strong><code>Automation</code></strong>
-</p>
+<br/>
 
-<a href="https://t.me/YO_UR_OFFICIAL_CRUSH">
-  <img src="https://img.shields.io/badge/✦_TELEGRAM-CONNECT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://github.com/ItsMeSakil-Dev?tab=repositories">
-  <img src="https://img.shields.io/badge/✦_REPOS-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositories" />
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@YO__UR__OFFICIAL__CRUSH-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YO_UR_OFFICIAL_CRUSH)
+[![GitHub](https://img.shields.io/badge/GitHub-ItsMeSakil--Dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ItsMeSakil-Dev)
 
 </div>
 
-<br/>
+---
 
-> ✦ *Crafting smart Python bots, slick automation & sharp tools.*
+### Architecture & Engineering Focus
 
-<br/>
+- **Voice & Media Bots** — Designing responsive Telegram voice chat streaming and playback systems with clean state and queue handling.
+- **Userbots & Workflow Automation** — Building modular scripts, rotators, and automated pipelines that reduce manual overhead.
+- **Maintainable Codebases** — Structuring projects for straightforward configuration, self-hosting, and steady iteration.
 
-### ✦ Spotlight Projects
+---
 
-* **`RhythmSync`** — Telegram voice chat music bot with smooth playback & quick setup → [Open Repo](https://github.com/ItsMeSakil-Dev/RhythmSync)
-* **`myuserbot`** — Custom userbot modules & sleek workflow automation → [Open Repo](https://github.com/ItsMeSakil-Dev/myuserbot)
-* **`Tg-Rotator-`** — Fast utility tool for automated rotation & bot tasks → [Open Repo](https://github.com/ItsMeSakil-Dev/Tg-Rotator-)
+### Key Systems & Repositories
 
-<br/>
+- **[RhythmSync](https://github.com/ItsMeSakil-Dev/RhythmSync)** — Telegram voice chat music bot built around smooth playback, clean modular design, and practical deployment.
+- **[myuserbot](https://github.com/ItsMeSakil-Dev/myuserbot)** — Extensible Python userbot and command automation suite.
+- **[Tg-Rotator-](https://github.com/ItsMeSakil-Dev/Tg-Rotator-)** — Focused utility for automated rotation and operational bot workflows.
 
-### ✦ Tech & Vibe
+---
 
-`Python` &nbsp; `Pyrogram` &nbsp; `PyTgCalls` &nbsp; `Automation` &nbsp; `Linux` &nbsp; `Git`
+### Core Stack
 
-<br/>
+`Python` · `Pyrogram` · `PyTgCalls` · `Automation` · `Linux` · `Git`
+
+---
 
 <div align="center">
-  <sub>✦ Built by <b>Sakil</b> &nbsp;|&nbsp; <a href="https://t.me/YO_UR_OFFICIAL_CRUSH">DM on Telegram</a> ✦</sub>
+
+Available for collaborations on **Python bots**, **automation tools**, and **open-source systems**.  
+[Connect on Telegram](https://t.me/YO_UR_OFFICIAL_CRUSH)
+
 </div>
